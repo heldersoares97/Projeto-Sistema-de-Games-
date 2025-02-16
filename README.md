@@ -1,30 +1,4 @@
-# Projeto DSList - Intensivão Java Spring
 
-**1. Perdeu alguma aula ou material de apoio?**
-
-Inscreva-se para receber os conteúdos no seu email:
-
-https://devsuperior.com.br
-
-    ATENÇÃO: os conteúdos ficarão disponíveis somente até domingo. Então organize-se, e bora pra cima! 
-
-**2. Tem alguma dúvida?**
-
-Envie uma mensagem pra gente no email que chegou pra você no ato da sua inscrição.
-
-## Calendário
-
-Os conteúdos ficarão temporariamente disponíveis no nosso website.
-
-Horário: cada aula será liberada por volta das 9h, somente para quem estiver inscrito no treinamento. Fica de olho no seu email, Whatsapp ou Telegram.
-
-| Dia / horário  | Conteúdo |
-| ------------- | ------------- |
-| Segunda-feira 9h | Aula 1: Projeto estruturado |
-| Terça-feira 9h | Aula 2: Domínio e consultas |
-| Quarta-feira 9h | Aula 3: Homologação e CORS |
-| Quinta-feira 9h | Aula 4: Endpoint especial |
-| Sexta-feira 9h | Aula 5: Resumão e reforço do aprendizado
 
 ## Modelo de domínio DSList
 
@@ -178,3 +152,6 @@ INSERT INTO tb_belonging (list_id, game_id, position) VALUES (2, 10, 4);
 ### Script Docker Compose
 
 https://gist.github.com/acenelio/5e40b27cfc40151e36beec1e27c4ff71
+
+# Projeto-Sistema-de-Games-
+3c8158d3af726cd1d679507c493a37d67bcb773e
